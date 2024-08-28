@@ -59,7 +59,7 @@ int main() {
 ````
 
 ## OUTPUT:
-![Screenshot 2024-08-19 143123](https://github.com/user-attachments/assets/9a034351-b03a-41fa-aaaa-43bade7a8b7f)
+"C:\Users\SEC\OneDrive\Pictures\Screenshots\Screenshot 2024-08-28 155225.png"
 
 
 ## RESULT :
